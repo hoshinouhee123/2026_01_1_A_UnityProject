@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48fa981c9e2c38c48b199e0f0edde6e3, type: 3}
+  m_Name: DialogueDataSO 3
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueDataSO
+  characterName: "\uBCA0\uB9AC \uCE90\uB9AD\uD130"
+  charcterImage: {fileID: 21300000, guid: 0b2eff0ff41fcf54e84eba9b108ddcec, type: 3}
+  dialogueLines:
+  - "\uBCA0\uB9AC!!!!!!!!!!!"
+  - "\uBCA0\uB9AC2!!!!!!!!!!!!!"
+  - "\uBCA0\uB9AC3!!!!!!!!!!!!!!!!!!"
+  - "\uBCA0\uB9AC4!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
